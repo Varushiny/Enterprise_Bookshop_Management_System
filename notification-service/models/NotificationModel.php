@@ -30,7 +30,7 @@ class NotificationModel {
     }
 
     /**
-     * Fetch recent notification logs.
+     * Fetch recent notification on logs.
      */
     public function getRecentLogs(int $limit = 20): array {
         try {
