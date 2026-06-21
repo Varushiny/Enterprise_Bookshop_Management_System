@@ -1,7 +1,7 @@
 <?php
 /**
  * user-service/api/index.php
- * Listing user service metadata and API routes.
+ * Listing users service metadata and API routes.
  */
 require_once __DIR__ . '/../../shared/utils/response.php';
 
